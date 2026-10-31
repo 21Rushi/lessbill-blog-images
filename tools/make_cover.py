@@ -17,7 +17,7 @@ BRANDS = {
                      name="LessBill.org", right="Cut cloud waste"),
     "bft": dict(bg=((24, 16, 40), (60, 22, 66)), glow=(120, 40, 90), grid=(70, 44, 92),
                 a=(255, 190, 60), b=(255, 84, 128), tag="TRENDING NOW",
-                name="Blog For Today", right="21stbirthd.blogspot.com"),
+                name="Blog For Today", right="globalbuzzday.blogspot.com"),
 }
 
 
